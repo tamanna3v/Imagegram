@@ -19,10 +19,10 @@ this project has been developed using ASP.NET Boilerplate Architecture. Please f
  **(Leave Tenancy Name empty for Host)**
 
 # Tools:
-Visual Studio 2019
-Backend: ASP.NET CORE
-Frontend: Swagger UI
-Database: MS SQL Server
-Host: Azure App Service
-Repository: Git
+#Visual Studio 2019
+#Backend: ASP.NET CORE
+#Frontend: Swagger UI
+#Database: MS SQL Server
+#Host: Azure App Service
+#Repository: Git
 
