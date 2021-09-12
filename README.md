@@ -7,6 +7,6 @@
 
 # Login 
 1. click 'Authorize' button from Swagger Ui
-Username : admin
-password: 123qwe
+**Username** : admin,
+**password**: 123qwe
  **(Leave Tenancy Name empty for Host)**
