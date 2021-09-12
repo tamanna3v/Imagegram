@@ -3,8 +3,10 @@ This is a home test project which have following functionalities:
 1. Create User account
 2. Create Posts with multiple images
 3. Comments on a specific post
-4. Retrieve all posts with latest 2 comments
-5. Delete User Accounts along with all post,comments and images
+4. Retrieve all posts with latest 2 comments 
+5. Retrieve posts via a cursor-based pagination
+6. Delete User Accounts along with all posts,comments and images
+
 # Run Application
 This project has been developed using ASP.NET Boilerplate Architecture. Please follow below steps to run this application.
 1. First, select Imagegram.Web.Host as startup project. 
